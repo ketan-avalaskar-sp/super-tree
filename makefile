@@ -1,4 +1,4 @@
-# CB-18.07.1
+# CB-18.03.1
 # Makefile for connectors
 
 connector:
